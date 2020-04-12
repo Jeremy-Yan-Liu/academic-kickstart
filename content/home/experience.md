@@ -22,15 +22,15 @@ date_format = "Jan 2006"
   company = "Sonos"
   company_url = "https://www.sonos.com/en-us/our-company"
   location = "Boston, MA"
-  date_start = "2019-05"
-  date_end = "2019-08"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01" description = """"""
 
 [[experience]]
   title = "Data Scientist Intern"
   company = "TitanHouse"
   company_url = "https://www.titanhouse.com"
   location = "Bethesda, MD"
-  date_start = "2019-09"
-  date_end = "2019-12"
+  date_start = "2019-09-01"
+  date_end = "2019-12-01"description = """"""
 
 +++
