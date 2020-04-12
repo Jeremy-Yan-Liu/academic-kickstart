@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/Jeremy-Yan-Liu/Jeremy-Yan-Liu.github.io
 	branch = master
+[submodule "Jeremy-Yan-Liu.github.io"]
+	path = Jeremy-Yan-Liu.github.io
+	url = https://github.com/Jeremy-Yan-Liu/Jeremy-Yan-Liu.github.io
+	branch = master
