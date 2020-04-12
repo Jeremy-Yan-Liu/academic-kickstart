@@ -23,7 +23,9 @@ date_format = "Jan 2006"
   company_url = "https://www.sonos.com/en-us/our-company"
   location = "Boston, MA"
   date_start = "2019-05-01"
-  date_end = "2019-08-01" description = """"""
+  date_end = "2019-08-01" 
+
+description = """"""
 
 [[experience]]
   title = "Data Scientist Intern"
@@ -31,6 +33,8 @@ date_format = "Jan 2006"
   company_url = "https://www.titanhouse.com"
   location = "Bethesda, MD"
   date_start = "2019-09-01"
-  date_end = "2019-12-01"description = """"""
+  date_end = "2019-12-01"
+
+description = """"""
 
 +++
